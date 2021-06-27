@@ -1,0 +1,3 @@
+[submodule "NetFPGA-SUME-live"]
+	path = NetFPGA-SUME-live
+	url = git@github.com:NetFPGA/NetFPGA-SUME-live.git
