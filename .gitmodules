@@ -1,3 +1,6 @@
 [submodule "NetFPGA-SUME-live"]
 	path = NetFPGA-SUME-live
 	url = git@github.com:NetFPGA/NetFPGA-SUME-live.git
+[submodule "corundum"]
+	path = corundum
+	url = git@github.com:Winters123/corundum.git
